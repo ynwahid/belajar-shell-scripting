@@ -1,0 +1,9 @@
+:set number
+:set tabstop=4
+:set shiftwidth=4
+" :set autoindent
+:set smartindent
+" :set expandtab
+:syntax on
+:filetype plugin on
+let g:BASH_AuthorName	= "Yusuf Nur Wahid"
